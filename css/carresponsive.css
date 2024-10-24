@@ -1,0 +1,1130 @@
+@media (min-width:1181px) and (max-width:1750px){
+    .nav-list li a{
+        font-size: 15px;
+    }
+    .btn.btn-sm{
+        font-size: 15px;
+        height: 30%;
+        width: 130px;
+    }
+    .text-big{
+        font-size: 80px;
+    }
+    .text-small{
+        font-size: 25px;
+    }
+    .btn{
+        font-size: 15px;
+        width: 150px;
+        height: 40%;
+        padding: 1px;
+        margin-left: 33%;
+    }
+    .services-container{
+        gap: 3.5rem;
+    }
+    .services-container .box p{
+        width: 50px;
+    }
+    .services-container .box h2{
+        font-size: 1.08rem;
+    }
+    .services-container .box h3{
+        margin-top: -7px;
+    }
+    .about-img img{
+        height: 350px;
+    }
+    .contact-img{
+        width:400px;
+        margin-left: -530px;
+        margin-top: 8px;
+    }
+    .contact-container .box{
+        margin-left: 60px;
+        margin-right: 0px;
+    }
+    .contact .contact-container .contact-img p{
+        font-size: 17px;
+    }
+    .contact-container .box h3{
+        font-size: 19px;
+    }
+    .contact-container .box p{
+        font-size: 17px;
+    }
+    .footer-content{
+        margin-left: 40px;
+        margin-right: 70px;
+    }
+    .footer-content h3{
+        font-size: 19px;
+    }
+    .footer-content .list li a{
+        font-size: 17px;
+    }
+    .social{
+        margin-left: -20px;
+    }
+    .social h3{
+        font-size: 19px;
+    }
+    .social a{
+        font-size: 23px;
+    }
+}
+
+
+
+@media (min-width:851px) and (max-width:1180px){
+    .nav-list{
+       margin-right: -5%;
+       margin-left: -13%;
+    }
+    .nav-list li a{
+        font-size: 14px;
+     }
+    .btn.btn-sm{
+    font-size: 14px;
+    height: 20%;
+    margin-left: 40%;
+    width: 100%;
+    }
+    .logo img{
+        width: 65%;
+        margin-left: -90%;
+    }
+    .text-big{
+        font-size: 65px;
+    }
+    .text-small{
+        font-size: 20px;
+    }
+    .btn{
+        font-size: 15px;
+        width: 40%;
+        height: 40%;
+        padding: 1px;
+        margin-left: 30%;
+    }
+    .heading span{
+        font-size: 20px;
+    }
+    .heading h1{
+        font-size: 2rem;
+    }
+    .ride-container .box h2{
+        font-size: 1.5rem;
+    }
+    .ride-container .box p{
+        font-size: 15px;
+    }
+    .services-container{
+        gap:3rem;
+        grid-template-columns: 1fr 1fr;
+    }
+    .services-container .box .box-img{
+        height: 250px;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .services-container .box p{
+        width: 45px;
+    }
+    .services-container .box h2{
+        font-size: 1.08rem;
+    }
+    .services-container .box h3{
+        margin-top: -7px;
+    }
+    
+    .about-img img{
+        height: 300px;
+    }
+    .about-text span{
+        font-size: 22px;
+    }
+    .about-text p{
+        font-size: 16px;
+    }
+    .about-text .btns{
+        font-size: 15px;
+    }
+    .contact-container{
+        height: 170px;
+        margin-top: -20px;
+    }
+    .contact-img{
+        width: 300px;
+        margin-left: 15px
+    }
+    .contact-img img{
+        height: 100px;
+        width: 60%;
+        margin-top: -35px;
+        margin-left: -10px;
+    }
+    .contact-container .box{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .contact .contact-container .contact-img p{
+        font-size: 13px;
+    }
+    .contact-container .box h3{
+        font-size: 15px;
+        margin-left: -60px;
+    }
+    .contact-container .box p{
+        font-size: 13px;
+        padding: 3px;
+    }
+    .contact .contact-container .contact-img p{
+        text-align:left;
+    }
+    .footer-content{
+        margin-left: -15px;
+        margin-right: 10px;
+        margin-top: -25px;
+    }
+    .footer-content h3{
+        font-size: 15px;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    .footer-content .list li{
+        padding: 0px;
+    }
+    .footer-content .list li a{
+        font-size: 13px;
+    }
+    .social{
+        margin-left: 20px;
+        margin-right: -25px;
+    }
+    .social h3{
+        font-size: 15px;
+        margin-left: -30px;
+    }
+    .social a{
+        font-size: 17px;
+    }
+    .copyright{
+        font-size: 13px;
+    }
+}
+
+
+@media (min-width: 577px) and (max-width: 850px){
+    .section-top{
+        width: 100vw;
+        height: 100vh;
+    }
+    .nav-list{
+        flex-direction: column;
+        margin-top: 0px;
+        margin-left: 4px;
+    }
+    .nav-list li a{
+        font-size: 20px;
+    }
+    .navbar{
+        flex-direction: column;
+        transition: all 0.7s ease-out;
+        height: 478px;
+    }
+    .burger{
+        display: block;
+        margin-top: -30px;
+     }
+     .h-nav{
+        height: 72px;
+    }
+    .v-class{
+        opacity: 0;
+    }
+    .rightNav{
+        text-align: center;
+    }
+    .btn.btn-sm{
+     font-size: 20px;
+     margin-left: 12px;
+     margin-right: 15px;
+     width: 80%;
+     height: 90%;
+    }
+    .logo{
+        width: 45%;
+        display: flex;
+        position: absolute;
+        top:0;
+    }
+    .logo img{
+        width: 55%;
+        margin-top: 30px;
+        margin-bottom: 5px;
+        margin-left: -160%;
+    }
+    .box-main{
+        flex-direction: column-reverse;
+        max-width: 100%;
+    }
+    .section{
+        flex-direction: column-reverse;
+    }
+    .text-big{
+        text-align: center;
+        font-size: 75px;
+        margin-left: 25%;
+    }
+    .text-small{
+        text-align: justify;
+        font-size: 30px;
+        margin-left: 27%;
+        margin-right: -10%;
+    }
+    .btn{
+        font-size: 20px;
+        margin-left: 47%;
+        height: 50%;
+        width: 30%;
+        padding: 2px;
+    }
+    .heading span{
+        font-size: 20px;
+    }
+    .heading h1{
+       font-size: 1.75rem;
+    }
+    .ride-container .box h2{
+        font-size: 1.5rem;
+    }
+    .ride-container .box p{
+        font-size: 17px;
+    }
+    .services-container{
+        gap: 3rem;
+        height: 1100px;
+    }
+    .services-container .box .box-img{
+        height: 300px;
+        width: 100%;
+    }
+    .services-container .box p{
+        width: 45px;
+    }
+    .services-container .box h3{
+        font-size: 1rem;
+    }
+    .services-container .box h2{
+        font-size: 0.9rem;
+    }
+    .services-container .box h2 span{
+        font-size: 0.7rem;
+    }
+    .services-container .box .btns{
+        font-size: 17px;
+        height: 20px;
+        padding: 7px;
+        width: 98%;
+    }
+    .about-container{
+        display:inline-block;
+    }
+    .about-img img{
+        width: 80%;
+        height: 300px;
+        margin-bottom: 20px;
+    }
+    .about-text{
+        margin-left: 80px;
+    }
+    .about-text span{
+        font-size: 20px;
+    }
+    .about-text p{
+        font-size: 17px;
+    }
+    .about-text .btns{
+        font-size: 17px;
+        padding: 7px;
+    }
+    .reviews-container .box h2{
+        font-size: 1.1rem;
+    }
+    .reviews-container .box p{
+        font-size: 17px;
+    }
+    .contact-container{
+        height: 170px;
+        margin-top: -20px;
+    }
+    .contact-img{
+        width: 300px;
+        margin-left: 15px
+    }
+    .contact-img img{
+        height: 100px;
+        width: 50%;
+        margin-top: -35px;
+        margin-left: -10px;
+    }
+    .contact-container .box{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .contact .contact-container .contact-img p{
+        font-size: 13px;
+    }
+    .contact-container .box h3{
+        font-size: 15px;
+        margin-left: -60px;
+    }
+    .contact-container .box p{
+        font-size: 13px;
+        padding: 3px;
+    }
+    .contact .contact-container .contact-img p{
+        text-align:left;
+    }
+    .footer-content{
+        margin-left: -15px;
+        margin-right: 10px;
+    }
+    .footer-content h3{
+        font-size: 15px;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    .footer-content .list li{
+        padding: 0px;
+    }
+    .footer-content .list li a{
+        font-size: 13px;
+    }
+    .social{
+        margin-left: 20px;
+        margin-right: -25px;
+    }
+    .social h3{
+        font-size: 15px;
+        margin-left: -30px;
+    }
+    .social a{
+        font-size: 16px;
+    }
+    .copyright{
+        font-size: 13px;
+    }
+    
+}
+@media (min-width:551px) and (max-width: 576px) {
+    .section-top{
+        width: 100vw;
+        height: 100vh;
+    }
+    .nav-list{
+        flex-direction: column;
+        margin-top: 0px;
+        margin-left: 4px;
+    }
+    .nav-list li a{
+        font-size: 20px;
+    }
+    .navbar{
+        flex-direction: column;
+        transition: all 0.7s ease-out;
+        height: 478px;
+    }
+    .burger{
+        display: block;
+        margin-top: -30px;
+     }
+     .h-nav{
+        height: 72px;
+    }
+    .v-class{
+        opacity: 0;
+    }
+    .rightNav{
+        text-align: center;
+    }
+    .btn.btn-sm{
+     font-size: 20px;
+     margin-left: 12px;
+     margin-right: 15px;
+     width: 80%;
+     height: 90%;
+    }
+    .logo{
+        width: 45%;
+        display: flex;
+        position: absolute;
+        top:0;
+    }
+    .logo img{
+        width: 65%;
+        margin-top: 30px;
+        margin-bottom: 5px;
+        margin-left: -145%;
+    }
+    .box-main{
+        flex-direction: column-reverse;
+        max-width: 100%;
+    }
+    .section{
+        flex-direction: column-reverse;
+    }
+    .text-big{
+        text-align: center;
+        font-size: 60px;
+        margin-left: 25%;
+    }
+    .text-small{
+        text-align: justify;
+        font-size: 26px;
+        margin-left: 22%;
+        margin-right: -10%;
+    }
+    .btn{
+        font-size: 20px;
+        margin-left: 37%;
+        height: 40%;
+        width: 50%;
+        padding: 2px;
+    }
+    .heading span{
+        font-size: 20px;
+    }
+    .heading h1{
+       font-size: 1.75rem;
+    }
+    .ride-container .box h2{
+        font-size: 1.5rem;
+    }
+    .ride-container .box p{
+        font-size: 17px;
+    }
+    .services-container{
+        gap: 3rem;
+        height: 1100px;
+    }
+    .services-container .box .box-img{
+        height: 200px;
+        width: 80%;
+    }
+    .services-container .box p{
+        width: 45px;
+    }
+    .services-container .box h3{
+        font-size: 1rem;
+    }
+    .services-container .box h2{
+        font-size: 0.9rem;
+    }
+    .services-container .box h2 span{
+        font-size: 0.7rem;
+    }
+    .services-container .box .btns{
+        font-size: 17px;
+        height: 20px;
+        padding: 7px;
+    }
+    .about-container{
+        display:inline-block;
+    }
+    .about-img img{
+        width: 70%;
+        height: 200px;
+        margin-bottom: 20px;
+    }
+    .about-text{
+        margin-left: 80px;
+    }
+    .about-text span{
+        font-size: 20px;
+    }
+    .about-text p{
+        font-size: 17px;
+    }
+    .about-text .btns{
+        font-size: 17px;
+        padding: 7px;
+    }
+    .reviews-container .box h2{
+        font-size: 1.1rem;
+    }
+    .reviews-container .box p{
+        font-size: 17px;
+    }
+    .contact-container{
+        height: 170px;
+        margin-top: -20px;
+    }
+    .contact-img{
+        width: 300px;
+        margin-left: 15px
+    }
+    .contact-img img{
+        height: 100px;
+        width: 80%;
+        margin-top: -35px;
+        margin-left: -10px;
+    }
+    .contact-container .box{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .contact .contact-container .contact-img p{
+        font-size: 13px;
+    }
+    .contact-container .box h3{
+        font-size: 15px;
+        margin-left: -60px;
+    }
+    .contact-container .box p{
+        font-size: 13px;
+        padding: 3px;
+    }
+    .contact .contact-container .contact-img p{
+        text-align:left;
+    }
+    .footer-content{
+        margin-left: -15px;
+        margin-right: 10px;
+    }
+    .footer-content h3{
+        font-size: 15px;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    .footer-content .list li{
+        padding: 0px;
+    }
+    .footer-content .list li a{
+        font-size: 13px;
+    }
+    .social{
+        margin-left: 20px;
+        margin-right: -25px;
+    }
+    .social h3{
+        font-size: 15px;
+        margin-left: -30px;
+    }
+    .social a{
+        font-size: 17px;
+    }
+    .copyright{
+        font-size: 13px;
+    }
+ }
+ @media (max-width:550px){
+    .section-top{
+        width: 100vw;
+        height: 100vh;
+    }
+    .nav-list{
+        flex-direction: column;
+        margin-top: 0px;
+        margin-left: 4px;
+    }
+    .nav-list li a{
+        font-size: 20px;
+    }
+    .navbar{
+        flex-direction: column;
+        transition: all 0.7s ease-out;
+        height: 478px;
+    }
+    .burger{
+        display: block;
+        margin-top: -30px;
+     }
+     .h-nav{
+        height: 72px;
+    }
+    .v-class{
+        opacity: 0;
+    }
+    .rightNav{
+        text-align: center;
+    }
+    .btn.btn-sm{
+     font-size: 20px;
+     margin-left: 12px;
+     margin-right: 15px;
+     width: 80%;
+     height: 90%;
+    }
+    .logo{
+        width: 45%;
+        display: flex;
+        position: absolute;
+        top:0;
+    }
+    .logo img{
+        width: 65%;
+        margin-top: 30px;
+        margin-bottom: 5px;
+        margin-left: -145%;
+    }
+    .box-main{
+        flex-direction: column-reverse;
+        max-width: 100%;
+    }
+    .section{
+        flex-direction: column-reverse;
+    }
+    .text-big{
+        text-align: center;
+        font-size: 60px;
+        margin-left: 25%;
+    }
+    .text-small{
+        text-align: justify;
+        font-size: 26px;
+        margin-left: 22%;
+        margin-right: -10%;
+    }
+    .btn{
+        font-size: 20px;
+        margin-left: 37%;
+        height: 40%;
+        width: 50%;
+        padding: 2px;
+    }
+    .heading span{
+        font-size: 20px;
+    }
+    .heading h1{
+       font-size: 1.75rem;
+    }
+    .ride-container .box h2{
+        font-size: 1.5rem;
+    }
+    .ride-container .box p{
+        font-size: 17px;
+    }
+    .services-container{
+        gap: 3rem;
+        height: 1100px;
+    }
+    .services-container .box .box-img{
+        height: 200px;
+        width: 80%;
+    }
+    .services-container .box p{
+        width: 45px;
+    }
+    .services-container .box h3{
+        font-size: 1rem;
+    }
+    .services-container .box h2{
+        font-size: 0.9rem;
+    }
+    .services-container .box h2 span{
+        font-size: 0.7rem;
+    }
+    .services-container .box .btns{
+        font-size: 17px;
+        height: 20px;
+        padding: 7px;
+    }
+    .about-container{
+        display:inline-block;
+    }
+    .about-img img{
+        width: 70%;
+        height: 200px;
+        margin-bottom: 20px;
+    }
+    .about-text{
+        margin-left: 80px;
+    }
+    .about-text span{
+        font-size: 20px;
+    }
+    .about-text p{
+        font-size: 17px;
+    }
+    .about-text .btns{
+        font-size: 17px;
+        padding: 7px;
+    }
+    .reviews-container .box h2{
+        font-size: 1.1rem;
+    }
+    .reviews-container .box p{
+        font-size: 17px;
+    }
+    .contact-container{
+        height: 170px;
+        margin-top: -20px;
+    }
+    .contact-img{
+        width: 300px;
+        margin-left: 15px
+    }
+    .contact-img img{
+        height: 100px;
+        width: 80%;
+        margin-top: -35px;
+        margin-left: -10px;
+    }
+    .contact-container .box{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .contact .contact-container .contact-img p{
+        font-size: 13px;
+    }
+    .contact-container .box h3{
+        font-size: 15px;
+        margin-left: -60px;
+    }
+    .contact-container .box p{
+        font-size: 13px;
+        padding: 3px;
+    }
+    .contact .contact-container .contact-img p{
+        text-align:left;
+    }
+    .footer-content{
+        margin-left: -15px;
+        margin-right: 10px;
+    }
+    .footer-content h3{
+        font-size: 15px;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    .footer-content .list li{
+        padding: 0px;
+    }
+    .footer-content .list li a{
+        font-size: 13px;
+    }
+    .social{
+        margin-left: 20px;
+        margin-right: -25px;
+    }
+    .social h3{
+        font-size: 15px;
+        margin-left: -30px;
+    }
+    .social a{
+        font-size: 17px;
+    }
+    .copyright{
+        font-size: 13px;
+    }
+    .ride-container{
+     margin-left: 30px;
+     margin-right: 30px;
+    }
+    .services-container{
+        margin-left: 30px;
+        margin-right: 30px;
+       
+    }
+    .services-container .box .box-img img{
+        width: 110%;
+    }
+    .services-container .box .btns{
+        width: 100%;
+    }
+    .about-container{
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    .about-img img{
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 100%;
+        height: 250px;
+    }
+    .about-text {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .about-text p{
+        margin-right: -0px;
+    }
+    .reviews-container{
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    .contact-container {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 20px;
+        justify-items: center;
+        overflow: auto;
+        width: 100%;
+        height: auto;
+    }
+
+    .contact-img {
+        width: 200px;
+        margin: 0 auto;
+    }
+
+    .contact-img img {
+        width: 100%;
+        height: auto;
+        margin-top: -15px;
+    }
+    .contact .contact-container .contact-img p {
+        font-size: 15px;
+        text-align: justify;
+        margin-left: -60%;
+        margin-right: -60%;
+        margin-bottom: 10px;
+
+}
+
+.contact .contact-container .box {
+        margin: 0;
+        text-align: center;
+}
+
+.contact-container .box h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+        text-align: center;
+        margin-left: 5px;
+}
+
+    .contact-container .box p {
+        font-size: 15px;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+
+    .footer-content {
+        margin: 0 auto;
+        text-align: center;
+        margin-top: -15px;
+    }
+
+    .footer-content h3 {
+        font-size: 20px;
+    }
+
+    .footer-content .list li {
+        margin-bottom: 5px;
+    }
+
+    .footer-content .list li a {
+        font-size: 15px;
+    }
+
+    .social {
+        text-align: center;
+        margin: 10px auto;
+    }
+
+    .social h3 {
+        font-size: 20px;
+        margin-left: 5px;
+        
+    }
+
+    .social a {
+        font-size: 25px;
+        margin: 0 5px;
+    }
+   
+}
+@media (min-width:320px) and (max-width:460px){
+    .section-top{
+        width: 100vw;
+        height: 100vh;
+    }
+    .nav-list{
+        flex-direction: column;
+        margin-top: 0px;
+        margin-left: 4px;
+    }
+    .nav-list li a{
+        font-size: 20px;
+    }
+    .navbar{
+        flex-direction: column;
+        transition: all 0.7s ease-out;
+        height: 478px;
+    }
+    .burger{
+        display: block;
+        margin-top: -30px;
+     }
+     .h-nav{
+        height: 72px;
+    }
+    .v-class{
+        opacity: 0;
+    }
+    .rightNav{
+        text-align: center;
+    }
+    .btn.btn-sm{
+     font-size: 20px;
+     margin-left: 12px;
+     margin-right: 15px;
+     width: 80%;
+     height: 90%;
+    }
+    .logo{
+        width: 45%;
+        display: flex;
+        position: absolute;
+        top:0;
+    }
+    .logo img{
+        width: 65%;
+        margin-top: 30px;
+        margin-bottom: 5px;
+        margin-left: -145%;
+    }
+    .box-main{
+        flex-direction: column-reverse;
+        max-width: 100%;
+    }
+    .section{
+        flex-direction: column-reverse;
+    }
+    .text-big{
+        text-align: center;
+        font-size: 60px;
+        margin-left: 25%;
+    }
+    .text-small{
+        text-align: justify;
+        font-size: 26px;
+        margin-left: 22%;
+        margin-right: -10%;
+    }
+    .btn{
+        font-size: 20px;
+        margin-left: 37%;
+        height: 40%;
+        width: 50%;
+        padding: 2px;
+    }
+    .heading{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .ride-container .box h2{
+        font-size: 1.5rem;
+    }
+    .ride-container .box .bx{
+        font-size: 35px;
+    }
+    .ride-container .box p{
+        font-size: 15px;
+    }
+    .services-container{
+        gap: 3rem;
+        height: 1000px;
+    }
+    .services-container .box .box-img{
+        height: 100px;
+        width: 40%;
+    }
+    .about-img img{
+        height: 180px;
+    }
+    .about-text span{
+        font-size: 17px;
+    }
+    .about-text p{
+        font-size: 15px;
+    }
+    .about-text .btns{
+        font-size: 15px;
+    }
+    .contact-container {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 20px;
+            justify-items: center;
+            overflow: auto;
+            width: 100%;
+            height: auto;
+    }
+    
+    .contact-img {
+            width: 150px;
+            margin: 0 auto;
+    }
+    
+    .contact-img img {
+            width: 100%;
+            height: auto;
+            margin-top: -25px;
+    }
+    
+    .contact .contact-container .contact-img p {
+            font-size: 15px;
+            text-align: justify;
+            margin-left: -40%;
+            margin-right: -40%;
+            margin-bottom: 10px;
+
+    }
+    
+    .contact .contact-container .box {
+            margin: 0;
+            text-align: center;
+    }
+    
+    .contact-container .box h3 {
+            font-size: 20px;
+            margin-bottom: 10px;
+            text-align: center;
+            margin-left: 5px;
+    }
+    
+        .contact-container .box p {
+            font-size: 15px;
+            margin-bottom: 5px;
+            text-align: center;
+        }
+    
+        .footer-content {
+            margin: 0 auto;
+            text-align: center;
+            margin-top: -15px;
+        }
+    
+        .footer-content h3 {
+            font-size: 20px;
+        }
+    
+        .footer-content .list li {
+            margin-bottom: 5px;
+        }
+    
+        .footer-content .list li a {
+            font-size: 15px;
+        }
+    
+        .social {
+            text-align: center;
+            margin: 10px auto;
+        }
+    
+        .social h3 {
+            font-size: 20px;
+            margin-left: 5px;
+            
+        }
+    
+        .social a {
+            font-size: 25px;
+            margin: 0 5px;
+        }
+}
+    
